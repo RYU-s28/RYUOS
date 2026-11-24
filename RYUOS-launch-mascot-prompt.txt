@@ -1,0 +1,3 @@
+Built-in image generation, using the supplied launch-screen reference.
+
+Extract only the centered front-facing smiling blue water dragon head from the reference, preserve its design, glossy wave crest, two side fins, white whiskers and face. Transparent background, square tightly framed asset with small margin. Remove text, clock, border and blue background. No paw, no body, no extra objects. Real alpha PNG for a Watch app splash screen.

@@ -1,0 +1,4 @@
+Created with the built-in image generation tool from the user's supplied RYUOS reference.
+
+Prompt:
+Use case: background-extraction. Create a transparent app mascot asset from the reference: only the friendly sky-blue water dragon head and waving paw at top left, including its glossy water crest, whiskers, and happy face. Preserve the character design closely. Remove all watch UI, text, clock, buttons, navy background and frame. Center the entire isolated mascot, tightly framed with small transparent margin, square canvas. No text, no additional objects. Save a PNG with real alpha transparency.
